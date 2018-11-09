@@ -1,3 +1,5 @@
-require: Tensorflow
-require slim models from tensorflow
-main program: noise_mask.py
+Requirement:
+* Tensorflow
+* require slim models from tensorflow
+Main Program:
+noise_mask.py
